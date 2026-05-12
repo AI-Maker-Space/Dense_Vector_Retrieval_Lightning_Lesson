@@ -3,13 +3,13 @@
      height="auto"/>
 </p>
 
-<h1 align="center" id="heading">Session 2: Dense Vector Retrieval</h1>
+<h1 align="center" id="heading"> Dense Vector Retrieval</h1>
 
 ### [Quicklinks]()
 
-| 📰 Session Sheet | ⏺️ Recording | 🖼️ Slides | 👨‍💻 Repo | 📁 Feedback |
-|:-----------------|:-------------|:----------|:----------|:------------|
-| | | | | |
+| ⏺️ Recording | 🖼️ Slides | 👨‍💻 Repo | 📁 Feedback |
+|:-------------|:----------|:----------|:------------|
+| | | | | 
 
 ## ⚡ Lightning Session Overview
 
